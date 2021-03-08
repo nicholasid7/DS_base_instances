@@ -53,3 +53,5 @@ print(series)
 series.reverse()
 print(series)
 
+
+itertools.product
