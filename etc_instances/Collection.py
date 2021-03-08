@@ -1,4 +1,5 @@
 # https://docs.python.org/3/library/collections.html
+# Collections
 from collections import Counter
 # Ini data
 c = ['spam', 'egg', 'spam', 'green', 'counter', 'counter', 'counter', 'green', 'green', 'lake', 't','t']
